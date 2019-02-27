@@ -1,2 +1,3 @@
 # hello-world
-graphic design
+平面设计
+poster
