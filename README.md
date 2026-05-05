@@ -1,8 +1,3 @@
-diff --git a/README.md b/README.md
-index 19d274eb3074b6f70424fe0f8b757e5d10a89ba6..f6ad66b7087c8400cbd51a13fec720419ffdcb1c 100644
---- a/README.md
-+++ b/README.md
-@@ -1,3 +1,111 @@
  # hello-world
 -平面设计
 -poster
@@ -116,3 +111,6 @@ index 19d274eb3074b6f70424fe0f8b757e5d10a89ba6..f6ad66b7087c8400cbd51a13fec72041
 +
 +- 它不在 GitHub 上。
 +- 它只在你当前浏览器和当前设备里。
+ 
+EOF
+)
